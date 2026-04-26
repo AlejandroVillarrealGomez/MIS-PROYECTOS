@@ -1,0 +1,16 @@
+﻿Localidad,Zona_ID,Zona_Nombre,Area_ha,Pct_Local,LST_media,LST_max,NDVI_medio
+Histórica y del Caribe Norte,1,Muy Baja,0.0,0.0,35.31,40.78,-0.283
+Histórica y del Caribe Norte,2,Baja,28.71,0.4,35.31,40.78,-0.283
+Histórica y del Caribe Norte,3,Media,504.76,7.8,35.31,40.78,-0.283
+Histórica y del Caribe Norte,4,Alta,1162.98,17.9,35.31,40.78,-0.283
+Histórica y del Caribe Norte,5,Muy Alta,4814.53,73.9,35.31,40.78,-0.283
+De la Virgen y Turística,1,Muy Baja,13.69,0.2,30.01,36.26,-0.28
+De la Virgen y Turística,2,Baja,835.94,9.5,30.01,36.26,-0.28
+De la Virgen y Turística,3,Media,2662.51,30.2,30.01,36.26,-0.28
+De la Virgen y Turística,4,Alta,4543.87,51.5,30.01,36.26,-0.28
+De la Virgen y Turística,5,Muy Alta,765.24,8.7,30.01,36.26,-0.28
+Industrial y de la Bahía,1,Muy Baja,0.0,0.0,34.34,38.23,-0.259
+Industrial y de la Bahía,2,Baja,233.73,8.4,34.34,38.23,-0.259
+Industrial y de la Bahía,3,Media,575.27,20.7,34.34,38.23,-0.259
+Industrial y de la Bahía,4,Alta,364.17,13.1,34.34,38.23,-0.259
+Industrial y de la Bahía,5,Muy Alta,1606.86,57.8,34.34,38.23,-0.259
